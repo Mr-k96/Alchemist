@@ -1,4 +1,4 @@
-# 10. README
+#README
 
 ## I. 팀원 정보 및 업무 분담 내역
 
@@ -50,14 +50,13 @@
 ## II. 설계 내용 및 실제 구현 정도
 
 ### API 명세서
-![API_명세서](/uploads/dd5a7102ad8d6cdc89672507adb8ad44/API_명세서.png)
+![API 명세서](https://github.com/user-attachments/assets/d37c3fd5-9b98-4c06-8918-66f985d8f387)
 
 ### 시스템 아키텍처
-![아키텍처](/uploads/3170c6bf99a68266aef2f86438743bf7/아키텍처.png)
+![아키텍처](https://github.com/user-attachments/assets/ff2f595e-ce1b-4a1a-a61b-cffe7101623a)
 
 ## III. 데이터베이스 모델링(ERD)
-
-![ERD](/uploads/4bc010eba5651307f74feaed053974f4/ERD.png)
+![ERD](https://github.com/user-attachments/assets/91727f37-5ca8-4b7e-8f95-c025c5d3ff3d)
 
 ## IV. 금융 상품 추천 알고리즘에 대한 기술적 설명
 
@@ -88,19 +87,19 @@
 ## V. 서비스 대표 기능들에 대한 설명
 
 ### LOGIN
-![Login](/uploads/fcf5eeccc3e1928087b5cd03aecfede2/Login.JPG)
+![Login](https://github.com/user-attachments/assets/01b2a68c-ecdf-4b94-ad04-e4bfa40dfbec)
 
 ### SIGNUP
-![SignUp](/uploads/fcd76d704deb0e590416828841a7a2bf/SignUp.JPG)
+![SignUp](https://github.com/user-attachments/assets/34cf7149-93b5-4a36-ac62-382858d2aad1)
 
 ### ABOUT
-![About](/uploads/1990bb15cb808873c39fceeb64bfae37/About.JPG)
+![About](https://github.com/user-attachments/assets/9a271614-450f-4c8e-b36a-3f982a85f973)
 
 ### PROFILE
-![Profile](/uploads/5af41eae3225068b95814a7c38bb7033/Profile.JPG)
+![Profile](https://github.com/user-attachments/assets/bcdcc3f6-1636-4cf1-be4f-b4b0558fc49f)
 
 ### PORTFOLIO
-![portfolio](/uploads/b2cf1ef92416a9dcb0832d1ee88d4663/portfolio.JPG)
+![portfolio](https://github.com/user-attachments/assets/f9650f96-0583-4839-8256-309031b7686c)
 
 ## VI. 생성형 AI를 활용한 부분
 
